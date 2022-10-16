@@ -1,0 +1,1 @@
+add_library(YahooFinanceDownload download.cpp download.h)
