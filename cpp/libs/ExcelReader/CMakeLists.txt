@@ -1,0 +1,1 @@
+add_library(ExcelReader STATIC reader.cpp reader.hpp)
